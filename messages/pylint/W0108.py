@@ -1,0 +1,5 @@
+"""
+W0108
+
+Lambda may not be necessary
+"""
